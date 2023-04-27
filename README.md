@@ -1,1 +1,1 @@
-# ScanMobile
+Este script usa o nmap para escanear todos os dispositivos na rede e salvar os resultados em um arquivo XML. Em seguida, ele filtra os resultados para exibir apenas os dispositivos móveis com os sistemas operacionais Android ou iOS.
